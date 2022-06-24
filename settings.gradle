@@ -1,0 +1,7 @@
+pluginManagement {
+    repositories {
+        maven { url "https://chaquo.com/maven" }
+    }
+}
+rootProject.name = "maps"
+include ':app'

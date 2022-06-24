@@ -1,0 +1,39 @@
+Host Name: video-edge-87b0fa.jkt02.abs.hls.ttvnw.net
+Location: [123] : [423]
+Pinging IP address 52.223.217.91 on port 80
+
+001. 2022-06-24T18:35:47 IP 52.223.217.91 on port 80   is online  (0.171 Second)
+002. 2022-06-24T18:35:49 IP 52.223.217.91 on port 80   is online  (0.144 Second)
+003. 2022-06-24T18:35:50 IP 52.223.217.91 on port 80   is online  (0.173 Second)
+004. 2022-06-24T18:35:51 IP 52.223.217.91 on port 80   is online  (0.175 Second)
+005. 2022-06-24T18:35:52 IP 52.223.217.91 on port 80   is online  (0.221 Second)
+
+Success: 5
+Failed:  0
+
+Host Name: video-edge-87b0fa.jkt02.abs.hls.ttvnw.net
+Location: la:lo[123]:[423]
+Pinging IP address 52.223.217.91 on port 80
+
+001. 2022-06-24T18:37:38 IP 52.223.217.91 on port 80   is online  (0.138 Second)
+002. 2022-06-24T18:37:39 IP 52.223.217.91 on port 80   is online  (0.172 Second)
+003. 2022-06-24T18:37:41 IP 52.223.217.91 on port 80   is online  (0.171 Second)
+004. 2022-06-24T18:37:42 IP 52.223.217.91 on port 80   is online  (0.171 Second)
+005. 2022-06-24T18:37:43 IP 52.223.217.91 on port 80   is online  (0.172 Second)
+
+Success: 5
+Failed:  0
+
+Host Name: video-edge-87b0fa.jkt02.abs.hls.ttvnw.net
+Location: [latitude:longitude] [123:423]
+Pinging IP address 52.223.217.91 on port 80
+
+001. 2022-06-24T18:38:17 IP 52.223.217.91 on port 80   is online  (0.150 Second)
+002. 2022-06-24T18:38:18 IP 52.223.217.91 on port 80   is online  (0.172 Second)
+003. 2022-06-24T18:38:19 IP 52.223.217.91 on port 80   is online  (0.138 Second)
+004. 2022-06-24T18:38:20 IP 52.223.217.91 on port 80   is online  (0.182 Second)
+005. 2022-06-24T18:38:21 IP 52.223.217.91 on port 80   is online  (0.147 Second)
+
+Success: 5
+Failed:  0
+
