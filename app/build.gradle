@@ -8,7 +8,7 @@ android {
     compileSdkVersion 31
 
     defaultConfig {
-        applicationId "com.suelee.maps"
+        applicationId "maps.with.tcping"
         minSdkVersion 20
         targetSdkVersion 31
         versionCode 1
